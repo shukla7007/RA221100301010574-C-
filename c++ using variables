@@ -1,0 +1,13 @@
+#include<iostream>
+using namespace std;
+int main(){
+    string CharacterName="Anshul";
+    int CharacterAge;
+    CharacterAge=19;
+    
+    cout<<"Hi my name is:"<<CharacterName<<endl;
+    cout<<"He is"<<CharacterAge<<"years old"<<endl;
+    return 0;
+
+
+}
