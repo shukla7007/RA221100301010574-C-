@@ -19,3 +19,4 @@ NetSalary=basicsalary+basicsalary*percentageofallowance/100-basicsalary*percenta
     
 }
 
+
